@@ -35,6 +35,7 @@ namespace MascotasAPI.Router
                 mascoticas.Especie         = mascota.Especie;
                 mascoticas.Raza            = mascota.Raza;
                 mascoticas.FechaNacimiento = mascota.FechaNacimiento;
+                mascoticas.IdPropietario   = mascota.IdPropietario;
                 await db.SaveChangesAsync();
                 return Results.NoContent();
             });

@@ -28,12 +28,19 @@
       <input type="text" name="id" id="txtPropietario" class="form-control" [(ngModel)]="mascota.idPropietario">
     </div>
 
+
+    <div class="col-md-2">
+      <label for="txtPropietario" class="from-label"> Fecha Nacimiento</label>
+      <input type="text" name="id" id="txtPropietario" class="form-control" [(ngModel)]="mascota.fechaNacimiento">
+    </div>
+
+
   </div>
 
 
   <div class="row mt-5">
     <div class="col">
-      <button class="bi bi-file-plus-fill m-2" type="button" (click)= "AddMascota(mascota)"></button>
+      <button class="bi bi-file-plus-fill m-2" type="image" (click)= "AddMascota(mascota)"></button>
       <button class="bi bi-folder-symlink-fill m-2" type="button" (click)= "UpdateMascota(mascota)"></button>
       <button class="bi bi-trash3-fill  m-2" type="button" (click)= "DeleteMascota(mascota.id)"></button>
     </div>
@@ -54,6 +61,7 @@
             <th>Especie</th>
             <th>Raza</th>
             <th>ID Dueño</th>
+            <th>Fecha Nacimiento</th>
           </tr>
         </thead>
 
@@ -65,6 +73,7 @@
             <td>{{ item.especie }}</td>
             <td>{{ item.raza }}</td>
             <td>{{ item.idPropietario}}</td>
+            <td>{{ item.fechaNacimiento}}</td>
           </tr>
         </tbody>
       </table>

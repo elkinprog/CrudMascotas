@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MascotasAPI.Migrations
 {
     [DbContext(typeof(MascotasContext))]
-    [Migration("20230613144344_first")]
-    partial class first
+    [Migration("20230613210500_firstmigration")]
+    partial class firstmigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

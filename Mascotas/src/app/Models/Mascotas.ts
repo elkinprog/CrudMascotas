@@ -5,6 +5,6 @@ export class Mascotas{
     especie:        string="";
     raza:           string="";
     idPropietario:  number=0;
-    //fechaNacimiento: Date="";
+    fechaNacimiento = new Date;
 }
 
