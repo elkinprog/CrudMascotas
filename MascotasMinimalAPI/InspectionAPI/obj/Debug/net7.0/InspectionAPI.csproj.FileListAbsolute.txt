@@ -1,0 +1,417 @@
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.AssemblyReference.cache
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.AssemblyInfoInputs.cache
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.AssemblyInfo.cs
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.CoreCompileInputs.cache
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.exe
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.deps.json
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.runtimeconfig.json
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.pdb
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.CopyComplete
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\refint\InspectionAPI.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.pdb
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.genruntimeconfig.cache
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\ref\InspectionAPI.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.RazorAssemblyInfo.cache
+C:\Users\LIDER\Music\InspectionAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.RazorAssemblyInfo.cs
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.exe
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.deps.json
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.runtimeconfig.json
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.pdb
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.AssemblyReference.cache
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.AssemblyInfoInputs.cache
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.AssemblyInfo.cs
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.CoreCompileInputs.cache
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.RazorAssemblyInfo.cache
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.RazorAssemblyInfo.cs
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.CopyComplete
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\refint\InspectionAPI.dll
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.pdb
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.genruntimeconfig.cache
+C:\Users\LIDER\Music\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\ref\InspectionAPI.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\appsettings.json
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.exe
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.deps.json
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.runtimeconfig.json
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.pdb
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\AutoMapper.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Humanizer.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.AssemblyReference.cache
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.AssemblyInfoInputs.cache
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.AssemblyInfo.cs
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.CoreCompileInputs.cache
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.RazorAssemblyInfo.cache
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.RazorAssemblyInfo.cs
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.CopyComplete
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\refint\InspectionAPI.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.pdb
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.genruntimeconfig.cache
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\ref\InspectionAPI.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Dominio.dll
+D:\API elkin\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Dominio.pdb
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.exe
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.deps.json
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.runtimeconfig.json
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.pdb
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.AssemblyReference.cache
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.AssemblyInfoInputs.cache
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.AssemblyInfo.cs
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.CoreCompileInputs.cache
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.RazorAssemblyInfo.cache
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.RazorAssemblyInfo.cs
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.CopyComplete
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\refint\InspectionAPI.dll
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.pdb
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.genruntimeconfig.cache
+C:\Users\ElkinProg\Desktop\Api\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\ref\InspectionAPI.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\appsettings.json
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.exe
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.deps.json
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.runtimeconfig.json
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\InspectionAPI.pdb
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\AutoMapper.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Humanizer.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.AssemblyReference.cache
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.AssemblyInfoInputs.cache
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.AssemblyInfo.cs
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.CoreCompileInputs.cache
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.RazorAssemblyInfo.cache
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.RazorAssemblyInfo.cs
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.csproj.CopyComplete
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\refint\InspectionAPI.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.pdb
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\InspectionAPI.genruntimeconfig.cache
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\obj\Debug\net7.0\ref\InspectionAPI.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\System.Text.Json.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Graph.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Graph.Core.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Kiota.Abstractions.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Kiota.Authentication.Azure.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Kiota.Serialization.Form.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Kiota.Serialization.Json.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.Kiota.Serialization.Text.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\NetTopologySuite.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Tavis.UriTemplates.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\AngleSharp.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\Microsoft.ApplicationInsights.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\PnP.Core.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\TimeZoneConverter.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\MinimalApi7\InspectionMinimalAPI\InspectionAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
