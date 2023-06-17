@@ -1,11 +1,16 @@
-import { NgModule } from '@angular/core';
+import { NgModule,CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { FormsModule } from '@angular/forms';
-
-import { AppRoutingModule } from './app-routing.module';
-import { AppComponent } from './app.component';
+import { FormsModule} from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { AppRoutingModule } from './app-routing.module';
+
+
+import { AppComponent } from './app.component';
 import { MascotasComponent } from './Components/mascotas/mascotas.component';
+import { EditMascotasComponent } from './Components/edit-mascotas/edit-mascotas.component';
+
+
+import { MascotasService } from './Services/Mascotas.service';
 
 
 
@@ -13,16 +18,25 @@ import { MascotasComponent } from './Components/mascotas/mascotas.component';
 @NgModule({
   declarations: [
     AppComponent,
-    MascotasComponent
+    MascotasComponent,
+    EditMascotasComponent,
+
   ],
+
+  schemas:
+  [
+    CUSTOM_ELEMENTS_SCHEMA
+  ],
+
   imports: [
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
   ],
 
-  providers: [],
+
+  providers: [MascotasService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

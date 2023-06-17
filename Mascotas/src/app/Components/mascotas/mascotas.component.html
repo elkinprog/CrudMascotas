@@ -1,50 +1,94 @@
-<div class="container">
 
+<div class="modal fade" id="ModalEdita" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="staticBackdropLabel">Editar Registro</h5>
+      </div>
+      <div class="modal-body" id="ModalEditar">
+          <div class="row center mt-5 ">
+            <div class="col-md-8 me-3 mb-2">
+              <label for="txtNombre" class="from-label">Nombre mascota</label>
+              <input type="text" name="id" id="txtNombre" class="form-control" [(ngModel)]="mascota.nombre">
+            </div>
+            <div class="col-md-8 me-3 mb-2">
+              <label for="txtEspecie" class="from-label">Especie</label>
+              <input type="text" name="id" id="txtEspecie" class="form-control" [(ngModel)]="mascota.especie">
+            </div>
+            <div class="col-md-8 me-3 mb-2">
+              <label for="txtRaza" class="from-label">Raza</label>
+              <input type="text" name="id" id="txtRaza" class="form-control" [(ngModel)]="mascota.raza">
+            </div>
+            <div class="col-md-8 me-3 mb-2">
+              <label for="txtPropietario" class="from-label"> ID Dueño</label>
+              <input type="text" name="id" id="txtPropietario" class="form-control" [(ngModel)]="mascota.idPropietario">
+            </div>
+            <div class="col-md-8 me-3 mb-2">
+              <label for="txtPropietario" class="from-label"> Fecha Nacimiento</label>
+              <input type="text" name="id" id="txtPropietario" class="form-control" [(ngModel)]="mascota.fechaNacimiento">
+            </div>
+          </div>
+
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-success" data-bs-dismiss="modal" (click)= "UpdateMascota(mascota)" >Guardar cambios</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="container mt-8">
   <div class="row text-center mt-5">
-    <div class="col">
-      <h2>Registro Mascotas</h2>
+          <div class="col">
+            <h2>Registro Mascotas</h2>
+          </div>
+  </div>
+  <button type="button" class="btn btn-primary me-3 mb-1" data-bs-toggle="modal" data-bs-target="#ModalRegistro">Iniciar Registro</button>
+<div class="modal fade" id="ModalRegistro" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <div class="modal-body" id="exampleModal">
+
+        <div class="row center mt-5 ">
+          <div class="col-md-8 me-3 mb-2">
+            <label for="txtNombre" class="from-label">Nombre mascota</label>
+            <input type="text" name="id" id="txtNombre" class="form-control" [(ngModel)]="mascota.nombre">
+          </div>
+          <div class="col-md-8 me-3 mb-2">
+            <label for="txtEspecie" class="from-label">Especie</label>
+            <input type="text" name="id" id="txtEspecie" class="form-control" [(ngModel)]="mascota.especie">
+          </div>
+          <div class="col-md-8 me-3 mb-2">
+            <label for="txtRaza" class="from-label">Raza</label>
+            <input type="text" name="id" id="txtRaza" class="form-control" [(ngModel)]="mascota.raza">
+          </div>
+          <div class="col-md-8 me-3 mb-2">
+            <label for="txtPropietario" class="from-label">Documento Propietario</label>
+            <input type="text" name="id" id="txtPropietario" class="form-control" [(ngModel)]="mascota.idPropietario">
+          </div>
+          <div class="col-md-8 me-3 mb-2">
+            <label for="txtPropietario" class="from-label"> Fecha Nacimiento</label>
+            <input type="text" name="id" id="txtPropietario" class="form-control" [(ngModel)]="mascota.fechaNacimiento">
+          </div>
+        </div>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-success" data-bs-dismiss="modal" (click)= "AddMascota(mascota)" >Guardar</button>
+      </div>
     </div>
   </div>
-
-  <div class="row center mt-5">
-
-    <div class="col-md-2">
-      <label for="txtNombre" class="from-label">Nombre mascota</label>
-      <input type="text" name="id" id="txtNombre" class="form-control" [(ngModel)]="mascota.nombre">
-    </div>
-
-    <div class="col-md-2">
-      <label for="txtEspecie" class="from-label">Especie</label>
-      <input type="text" name="id" id="txtEspecie" class="form-control" [(ngModel)]="mascota.especie">
-    </div>
-
-    <div class="col-md-2">
-      <label for="txtRaza" class="from-label">Raza</label>
-      <input type="text" name="id" id="txtRaza" class="form-control" [(ngModel)]="mascota.raza">
-    </div>
-
-    <div class="col-md-2">
-      <label for="txtPropietario" class="from-label"> ID Dueño</label>
-      <input type="text" name="id" id="txtPropietario" class="form-control" [(ngModel)]="mascota.idPropietario">
-    </div>
-
-
-    <div class="col-md-2">
-      <label for="txtPropietario" class="from-label"> Fecha Nacimiento</label>
-      <input type="text" name="id" id="txtPropietario" class="form-control" [(ngModel)]="mascota.fechaNacimiento">
-    </div>
-
-
-  </div>
-
-
-  <div class="row mt-5">
-    <div class="col">
-      <button class="bi bi-file-plus-fill m-2" type="image" (click)= "AddMascota(mascota)"></button>
-      <button class="bi bi-folder-symlink-fill m-2" type="button" (click)= "UpdateMascota(mascota)"></button>
-      <button class="bi bi-trash3-fill  m-2" type="button" (click)= "DeleteMascota(mascota.id)"></button>
-    </div>
-  </div>
+</div>
 
 
 
@@ -55,39 +99,45 @@
       <table class="table table-success table-striped" style="width: 100%;">
         <thead>
           <tr>
-            <th>Selecciona</th>
             <th>Id</th>
             <th>Nombre</th>
             <th>Especie</th>
             <th>Raza</th>
             <th>ID Dueño</th>
             <th>Fecha Nacimiento</th>
+            <th>Editar</th>
           </tr>
         </thead>
 
         <tbody>
           <tr *ngFor="let item of ObtenerMascotas">
-            <td> <button class="bi bi-check2-square  m-2" type="button" (click)="SetData(item)"></button></td>
+
             <td>{{ item.id }} </td>
             <td>{{ item.nombre }}</td>
             <td>{{ item.especie }}</td>
             <td>{{ item.raza }}</td>
             <td>{{ item.idPropietario}}</td>
             <td>{{ item.fechaNacimiento}}</td>
+
+            <td>
+              <button btn btn-uotline-primary class="bi bi-pencil-square me-3 mb-1" data-bs-toggle="modal" data-bs-target="#ModalEdita" (click)="SetData(item)"></button>
+              <button btn btn-uotline-primary class="bi bi-trash3-fill me-3 mb-1"  (click)= "DeleteMascota(item)"></button>
+            </td>
+
           </tr>
         </tbody>
       </table>
 
 <div class="alert alert-success" role="alert" id="add-success-alert">
-Inspection successfully added
+Mascotas successfully added
 </div>
 
 <div class="alert alert-success" role="alert" id="update-success-alert">
-  Inspection successfully updated
+  Mascotas successfully updated
 </div>
 
 <div class="alert alert-success" role="alert" id="delet-success-alert">
-  Inspection successfully deleted
+  Mascotas successfully deleted
 </div>
 
 

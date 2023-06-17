@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable, map } from 'rxjs';
 import { environment } from '../environments/environment';
 import { Mascotas } from '../Models/Mascotas';
 
@@ -15,10 +15,15 @@ export class MascotasService {
 
   constructor(private http : HttpClient) { }
 
+  valor:any;
 
   ObtenerMascotas():Observable<Mascotas>{
     return this.http.get<Mascotas>(this.APIUrl + '/Mascota')
   }
+
+  // ObtenerMascotasId(id: number): Observable<Mascotas> {
+  //   return this.http.get<Mascotas>(this.APIUrl + '/Mascota/' + id.toString())
+  // }
 
   AgragarMascotas(data:Mascotas):Observable<Mascotas>{
     return this.http.post<Mascotas>(this.APIUrl + '/Mascota',data)
@@ -28,8 +33,8 @@ export class MascotasService {
     return  this.http.put<Mascotas>(this.APIUrl + `/Mascota/ ${id}`,data)
   }
 
-  EliminarMascotas(id:number|string){
-    return this.http.delete<Mascotas>(this.APIUrl + `/Mascota/ ${id}`)
+  EliminarMascotas(id:number){
+    return this.http.delete<Mascotas[]>(this.APIUrl + `/Mascota/ ${id}`)
   }
 
 }
